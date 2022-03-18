@@ -1,2 +1,3 @@
-# hotel_reservation_system
-Web Application Created on Spring for hotel managment system.
+#Hotel Reservation System
+
+An application for bookings of hotels across multiple locations.
